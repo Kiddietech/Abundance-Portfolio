@@ -61,9 +61,12 @@ nav{
 
 }
 @media screen and (max-width: 600px) {
-  .navbar ul li nav{
+  .navbar ul li{
     display: none; 
 }
+    nav{
+        display: none;
+    }
 img{
     width: 100%;
     justify-self:flex-start;
