@@ -71,7 +71,7 @@ img{
     width: 100%;
     justify-self:flex-start;
 }
-}
+
 .navbar ul li{
 margin: 0px 20px;
 }                         
@@ -99,4 +99,5 @@ margin: 0px 20px;
     box-sizing: border-box;
     background-color: gray;
    
+}
 }
