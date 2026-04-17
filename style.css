@@ -61,7 +61,7 @@ nav{
 
 }
 @media screen and (max-width: 600px) {
-  .navbar ul li{
+  .navbar ul li nav{
     display: none; 
 }
 img{
